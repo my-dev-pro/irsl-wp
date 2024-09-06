@@ -1,3 +1,2 @@
 <?php
-
-// Silence is Golde //
+// Silence is Golde
