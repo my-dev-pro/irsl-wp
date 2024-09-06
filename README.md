@@ -26,6 +26,3 @@
 
 ## Documentation and Support
 For detailed documentation and support, visit [Irsl.io](https://irsl.io).
-
-## License
-This plugin is open source and distributed under the [MIT License](https://opensource.org/licenses/MIT).
