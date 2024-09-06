@@ -1,0 +1,206 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Irsl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 01:29+0000\n"
+"PO-Revision-Date: 2024-03-30 01:17+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: myDev-irsl\n"
+
+#: incl/admin-settings.php:43 incl/admin-settings.php:44
+#: incl/admin-settings.php:45 incl/admin-settings.php:46
+#: incl/admin-settings.php:47 incl/admin-settings.php:48
+msgid " add"
+msgstr " أضف"
+
+#: incl/admin-settings.php:255
+msgid "Cancelled Order"
+msgstr "طلب ملغى"
+
+#: incl/admin-settings.php:44
+msgid "Client First Name"
+msgstr "الاسم الأول للعميل"
+
+#: incl/admin-settings.php:45
+msgid "Client Last Name"
+msgstr "الأسم الأخير للعميل"
+
+#: incl/admin-settings.php:110
+msgid "Completed Order"
+msgstr "الطلبات المكتملة"
+
+#: incl/admin-settings.php:48
+msgid "Coupon Code"
+msgstr "رمز القسيمة"
+
+#: incl/admin-settings.php:285
+msgid "Coupon code"
+msgstr "رمز القسيمة"
+
+#: incl/admin-settings.php:280
+msgid "Coupons"
+msgstr "الكوبونات"
+
+#: incl/admin-settings.php:69 incl/admin-settings.php:105
+#: incl/admin-settings.php:114 incl/admin-settings.php:139
+#: incl/admin-settings.php:162 incl/admin-settings.php:185
+#: incl/admin-settings.php:209 incl/admin-settings.php:235
+#: incl/admin-settings.php:258 incl/admin-settings.php:283
+msgid "Enable"
+msgstr "تفعيل"
+
+#: incl/admin-settings.php:286
+msgid "Enter Coupon code"
+msgstr "إدخل رمز القسيمة"
+
+#: incl/admin-settings.php:205
+msgid "Failed Order"
+msgstr "الطلبات الفاشلة"
+
+#: incl/admin-settings.php:23
+msgid "General settings"
+msgstr "الإعدادات العامة"
+
+#. Author URI of the plugin
+msgid "https://my-dev.pro"
+msgstr ""
+
+#. Name of the plugin
+msgid "Irsl"
+msgstr "إرسل"
+
+#: incl/admin-settings.php:53
+msgid "Irsl Host"
+msgstr "Irsl Host"
+
+#: incl/admin-settings.php:57
+msgid "Irsl Instance ID"
+msgstr "Irsl Instance ID"
+
+#: incl/admin-settings.php:55
+msgid "Irsl Token"
+msgstr "Irsl Token"
+
+#: incl/admin-settings.php:116 incl/admin-settings.php:141
+#: incl/admin-settings.php:164 incl/admin-settings.php:187
+#: incl/admin-settings.php:211 incl/admin-settings.php:237
+#: incl/admin-settings.php:260 incl/admin-settings.php:313
+msgid "Message"
+msgstr "الرسالة"
+
+#. Author of the plugin
+msgid "MY-Dev"
+msgstr ""
+
+#: incl/admin-settings.php:65
+msgid "New Order"
+msgstr "الطلبات الجديدة"
+
+#: incl/admin-settings.php:299
+msgid "Number of orders"
+msgstr "عدد الطلبات"
+
+#: incl/admin-settings.php:158
+msgid "On Hold Order"
+msgstr "الطلبات قيد الإنتظار"
+
+#: incl/admin-settings.php:43
+msgid "Order ID"
+msgstr "رقم الطلب"
+
+#: incl/admin-settings.php:101
+msgid "Order Note"
+msgstr "ملاحظات الطلب"
+
+#: incl/admin-settings.php:47
+msgid "Order Total"
+msgstr "إجمالى الطلب"
+
+#: incl/admin-settings.php:231
+msgid "Pending Order (Waiting payment confirmation)"
+msgstr "الطلبات المعلقة (بإنتظار الدفع)"
+
+#: incl/admin-settings.php:135
+msgid "Processing Order"
+msgstr "الطلبات قيد التنفيذ"
+
+#: incl/admin-settings.php:181
+msgid "Refunded Order"
+msgstr "الطلبات المسترجعة"
+
+#. Description of the plugin
+msgid "Send whatsapp notification to your customers"
+msgstr "إرسال إشعار WhatsApp لعملائك"
+
+#: incl/admin-settings.php:113
+msgid "Set completed order message"
+msgstr "قم بتعيين رسالة الطلبات المكتملة"
+
+#: incl/admin-settings.php:282
+msgid "Set coupons message"
+msgstr "تعيين رسالة الكوبونات"
+
+#: incl/admin-settings.php:68
+msgid "Set new order message"
+msgstr "قم بتعيين رسالة الطلبات الجديدة"
+
+#: incl/admin-settings.php:257
+msgid "Set order cancelled message"
+msgstr "تعيين رسالة الطلبات الملغاه"
+
+#: incl/admin-settings.php:208
+msgid "Set order failed message"
+msgstr "تعيين رسالة الطلبات الفاشلة"
+
+#: incl/admin-settings.php:104
+msgid "Set order note"
+msgstr "تعيين رسالة ملاحظات الطلب"
+
+#: incl/admin-settings.php:161
+msgid "Set order on hold message"
+msgstr "تعيين رسالة الطلبات قيد الانتظار"
+
+#: incl/admin-settings.php:234
+msgid "Set order pending message"
+msgstr "تعيين رسالة الطلبات المعلقة"
+
+#: incl/admin-settings.php:138
+msgid "Set order processing message"
+msgstr "تعيين رسالة الطلبات قيد التنفيذ"
+
+#: incl/admin-settings.php:184
+msgid "Set order refunded message"
+msgstr "تعيين رسالة الطلبات المسترجعة"
+
+#: incl/admin-settings.php:52
+msgid "Subscribe to the WhatsApp service from here."
+msgstr "اشترك في خدمة الواتساب من هنا."
+
+#: incl/admin-settings.php:74
+msgid ""
+"Unfortunately, this feature is temporarily disabled due to some problems "
+"with the WooCommerce add-on. It will be activated once the problem is fixed "
+"by the WooCommerce team."
+msgstr ""
+"لسوء الحظ، تم تعطيل هذه الميزة مؤقتًا بسبب بعض المشكلات في الوظيفة الإضافية "
+"WooCommerce. سيتم تفعيله بمجرد إصلاح المشكلة من قبل فريق WooCommerce."
+
+#: incl/admin-settings.php:42
+msgid "Use the following to display the order information in the message"
+msgstr "استخدم ما يلي لعرض معلومات الطلب في الرسالة"
+
+#: incl/admin-settings.php:300
+msgid ""
+"What is the number of orders based on which the coupon will be sent to the "
+"customer, ex. if sending is upon the first order, enter number 1"
+msgstr ""
+"ماهي عدد الطلبات التي سوف يرسل الكوبون الى العميل على اساسها ، على سبيل "
+"المثال  اذا كان الارسال عند اول طلب ادخل رقم 1"

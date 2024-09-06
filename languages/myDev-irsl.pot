@@ -1,0 +1,203 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Irsl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-29 01:29+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.4.3\n"
+"X-Domain: myDev-irsl"
+
+#: incl/admin-settings.php:43 incl/admin-settings.php:44
+#: incl/admin-settings.php:45 incl/admin-settings.php:46
+#: incl/admin-settings.php:47 incl/admin-settings.php:48
+msgid " add"
+msgstr ""
+
+#: incl/admin-settings.php:255
+msgid "Cancelled Order"
+msgstr ""
+
+#: incl/admin-settings.php:44
+msgid "Client First Name"
+msgstr ""
+
+#: incl/admin-settings.php:45
+msgid "Client Last Name"
+msgstr ""
+
+#: incl/admin-settings.php:110
+msgid "Completed Order"
+msgstr ""
+
+#: incl/admin-settings.php:48
+msgid "Coupon Code"
+msgstr ""
+
+#: incl/admin-settings.php:285
+msgid "Coupon code"
+msgstr ""
+
+#: incl/admin-settings.php:280
+msgid "Coupons"
+msgstr ""
+
+#: incl/admin-settings.php:69 incl/admin-settings.php:105
+#: incl/admin-settings.php:114 incl/admin-settings.php:139
+#: incl/admin-settings.php:162 incl/admin-settings.php:185
+#: incl/admin-settings.php:209 incl/admin-settings.php:235
+#: incl/admin-settings.php:258 incl/admin-settings.php:283
+msgid "Enable"
+msgstr ""
+
+#: incl/admin-settings.php:286
+msgid "Enter Coupon code"
+msgstr ""
+
+#: incl/admin-settings.php:205
+msgid "Failed Order"
+msgstr ""
+
+#: incl/admin-settings.php:23
+msgid "General settings"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://my-dev.pro"
+msgstr ""
+
+#. Name of the plugin
+msgid "Irsl"
+msgstr ""
+
+#: incl/admin-settings.php:53
+msgid "Irsl Host"
+msgstr ""
+
+#: incl/admin-settings.php:57
+msgid "Irsl Instance ID"
+msgstr ""
+
+#: incl/admin-settings.php:55
+msgid "Irsl Token"
+msgstr ""
+
+#: incl/admin-settings.php:116 incl/admin-settings.php:141
+#: incl/admin-settings.php:164 incl/admin-settings.php:187
+#: incl/admin-settings.php:211 incl/admin-settings.php:237
+#: incl/admin-settings.php:260 incl/admin-settings.php:313
+msgid "Message"
+msgstr ""
+
+#. Author of the plugin
+msgid "MY-Dev"
+msgstr ""
+
+#: incl/admin-settings.php:65
+msgid "New Order"
+msgstr ""
+
+#: incl/admin-settings.php:299
+msgid "Number of orders"
+msgstr ""
+
+#: incl/admin-settings.php:158
+msgid "On Hold Order"
+msgstr ""
+
+#: incl/admin-settings.php:43
+msgid "Order ID"
+msgstr ""
+
+#: incl/admin-settings.php:101
+msgid "Order Note"
+msgstr ""
+
+#: incl/admin-settings.php:47
+msgid "Order Total"
+msgstr ""
+
+#: incl/admin-settings.php:231
+msgid "Pending Order (Waiting payment confirmation)"
+msgstr ""
+
+#: incl/admin-settings.php:135
+msgid "Processing Order"
+msgstr ""
+
+#: incl/admin-settings.php:181
+msgid "Refunded Order"
+msgstr ""
+
+#. Description of the plugin
+msgid "Send whatsapp notification to your customers"
+msgstr ""
+
+#: incl/admin-settings.php:113
+msgid "Set completed order message"
+msgstr ""
+
+#: incl/admin-settings.php:282
+msgid "Set coupons message"
+msgstr ""
+
+#: incl/admin-settings.php:68
+msgid "Set new order message"
+msgstr ""
+
+#: incl/admin-settings.php:257
+msgid "Set order cancelled message"
+msgstr ""
+
+#: incl/admin-settings.php:208
+msgid "Set order failed message"
+msgstr ""
+
+#: incl/admin-settings.php:104
+msgid "Set order note"
+msgstr ""
+
+#: incl/admin-settings.php:161
+msgid "Set order on hold message"
+msgstr ""
+
+#: incl/admin-settings.php:234
+msgid "Set order pending message"
+msgstr ""
+
+#: incl/admin-settings.php:138
+msgid "Set order processing message"
+msgstr ""
+
+#: incl/admin-settings.php:184
+msgid "Set order refunded message"
+msgstr ""
+
+#: incl/admin-settings.php:52
+msgid "Subscribe to the WhatsApp service from here."
+msgstr ""
+
+#: incl/admin-settings.php:74
+msgid ""
+"Unfortunately, this feature is temporarily disabled due to some problems "
+"with the WooCommerce add-on. It will be activated once the problem is fixed "
+"by the WooCommerce team."
+msgstr ""
+
+#: incl/admin-settings.php:42
+msgid "Use the following to display the order information in the message"
+msgstr ""
+
+#: incl/admin-settings.php:300
+msgid ""
+"What is the number of orders based on which the coupon will be sent to the "
+"customer, ex. if sending is upon the first order, enter number 1"
+msgstr ""
