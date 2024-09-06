@@ -1,18 +1,31 @@
-# WordPress Plugin Irsl
+
+# Irsl WordPress Plugin
+
+**Irsl** is a powerful plugin that integrates seamlessly with your WooCommerce WordPress store to enhance customer communication through WhatsApp notifications. This allows you to provide instant updates on order statuses, share notes, and send discount coupons.
 
 ## Dependencies
-* WooCommerce Wordpress plugin
+- [WooCommerce WordPress Plugin](https://wordpress.org/plugins/woocommerce/)
 
 ## Features
-* Send whatsapp notifications to customers on changing orders status.
-* Notify customer with notes added to there orders.
-* Send copouns throgh whatsapp messages.
+- **Order Status Notifications:** Automatically send WhatsApp messages to customers when the status of their order changes.
+- **Order Notes Notifications:** Keep your customers informed by sending WhatsApp notifications when notes are added to their orders.
+- **Coupon Distribution:** Easily send discount coupons to customers via WhatsApp messages.
 
-
-## Installation
-* Irsl can be installed directly into your plugins folder.
-* Download latest release and go to plugin page in your wordpress and install new wordpress plugin.
+## Installation Guide
+1. **Download:** Download the latest version of the Irsl plugin from the [official website](https://irsl.io) or the WordPress plugin repository.
+2. **Upload Plugin:**
+   - Go to your WordPress Dashboard.
+   - Navigate to the "Plugins" section.
+   - Click "Add New" and upload the downloaded plugin ZIP file.
+3. **Activate the Plugin:** Once uploaded, activate the plugin from your WordPress plugins page.
+4. **Configure Settings:** After activation, navigate to the Irsl settings page to configure WhatsApp API keys and set notification preferences.
 
 ## Supported Languages
-* English
-* Arabic
+- English
+- Arabic
+
+## Documentation and Support
+For detailed documentation and support, visit [Irsl.io](https://irsl.io).
+
+## License
+This plugin is open source and distributed under the [MIT License](https://opensource.org/licenses/MIT).
