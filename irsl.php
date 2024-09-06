@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Irsl
- * Plugin URI:
+ * Plugin URI: https://irsl.io
  * Description: Send whatsapp notification to your customers
  * Version: 1.0.0
  * Author: MY-Dev
